@@ -4,7 +4,7 @@
 **AquaGuard Pro** is a comprehensive, real-time water quality monitoring dashboard designed for environmental monitoring stations, water treatment facilities, and smart city infrastructure. Built with pure HTML5, CSS3, and JavaScript, this system provides industrial-grade monitoring capabilities with an intuitive, visually stunning interface.
 
 ### 🌊 Features
-
+ 
 - **Real-time Parameter Tracking**: Monitor pH, Temperature, Dissolved Oxygen (DO), Turbidity, Conductivity, and ORP with live updates
 - **Interactive Data Visualization**: Dynamic Chart.js integration for trend analysis and historical data comparison
 - **Sensor Network Mapping**: Visual grid-based map showing distributed monitoring stations with status indicators
